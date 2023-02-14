@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhreich34
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning cloyud computing
+- 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on interesting data science projects
 - 📫 How to reach me rhreich34@gmail.com
 
